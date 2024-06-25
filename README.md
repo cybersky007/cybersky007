@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Static and Dynamic Malware Analysis Lab](https://github.com/cybertest/LABURL)
+- [Static and Dynamic Malware Analysis Lab](https://github.com/cybersky007/Malware-Analysis-LAB.git)
   
 
 <h2>📺 Certifications</h2>
