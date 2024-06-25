@@ -1,6 +1,6 @@
 <h1>Hi, I'm Akash!</h1> <br/><a href="https://github.com/cybersky007">Coder</a>, <a href="https://www.linkedin.com/in/akash-singla-86b30aa3/">Cybersecurity Professional</a>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Cybersecurity Project:</h2>
 
 - [Static and Dynamic Malware Analysis Lab](https://github.com/cybersky007/Malware-Analysis-LAB.git)
   
