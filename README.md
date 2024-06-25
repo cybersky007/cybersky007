@@ -7,8 +7,8 @@
 
 <h2>📺 Certifications</h2>
 
-- [Palo Alto - PCNSA](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [Comptia Security + S0-701](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [Palo Alto - PCNSA](https://www.credly.com/users/akash-singla.d0347690)
+- [Comptia Security + S0-701](https://www.credly.com/badges/9540bb11-e85f-41a5-b4f2-511bf07c80e6/public_url)
 
 
 <h2> 🤳 Connect with me:</h2>
