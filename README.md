@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Project:</h2>
 
 - [Static and Dynamic Malware Analysis Lab](https://github.com/cybersky007/Malware-Analysis-LAB.git)
-  
+- [WAZUH SIEM Home Lab](https://github.com/cybersky007/Malware-Analysis-LAB.git)
 
 <h2>📺 Certifications</h2>
 
