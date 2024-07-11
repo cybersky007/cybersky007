@@ -4,7 +4,7 @@
 
 - [Static and Dynamic Malware Analysis Lab](https://github.com/cybersky007/Malware-Analysis-LAB.git)
 - [WAZUH SIEM Home Lab](https://github.com/cybersky007/WAZUH-SIEM-Home-Lab.git)
-- [EDR-SOAR LAB WITH LIMACHARLIE/TINES/SLACK ]
+- [EDR-SOAR LAB WITH LIMACHARLIE/TINES/SLACK ](https://github.com/cybersky007/EDR-SOAR.git)
   
 <h2>📺 Certifications</h2>
 
