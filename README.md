@@ -4,7 +4,8 @@
 
 - [Static and Dynamic Malware Analysis Lab](https://github.com/cybersky007/Malware-Analysis-LAB.git)
 - [WAZUH SIEM Home Lab](https://github.com/cybersky007/WAZUH-SIEM-Home-Lab.git)
-
+- [EDR-SOAR LAB( LIMACHARLIE/TINES/SLACK )]
+  
 <h2>📺 Certifications</h2>
 
 - [Palo Alto - PCNSA](https://www.credly.com/users/akash-singla.d0347690)
